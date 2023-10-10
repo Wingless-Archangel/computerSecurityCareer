@@ -1,1 +1,8 @@
+.DS_Store
+.remote-assets
+*.local
 *.pdf
+components.d.ts
+dist
+index.html
+node_modules
